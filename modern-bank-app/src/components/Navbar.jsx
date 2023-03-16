@@ -17,7 +17,7 @@ const Navbar = () => {
               {nav.title}
             </a>
 
-          </li>
+         </li>
         ))}
 
       </ul>
